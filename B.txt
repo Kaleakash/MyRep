@@ -1,3 +1,0 @@
-First Line in B file
-Second Line in B file
-Third Line in B file 
